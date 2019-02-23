@@ -28,7 +28,7 @@ A compiler is a program that reads text from a string or from a file, interprets
 ## Download
 To download and use the project, simply type the following code in your terminal of choice:
 
-    git clone <this repository>
+    git clone https://github.com/HFrajacomo/Machine-Learning-Compiler
 
 # The Language
 
