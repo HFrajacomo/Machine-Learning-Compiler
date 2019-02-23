@@ -21,6 +21,7 @@ A compiler is a program that reads text from a string or from a file, interprets
  - Module Scikit-learn version >= 0.18.2
  - Module Pandas version >= 0.20.3
  - Module Matplotlib >= 2.0.2
+ - Module Seaborn >= 0.9.0
  - Module Numpy >= 1.13.1+mk1
 
 
