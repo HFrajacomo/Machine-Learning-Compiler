@@ -69,9 +69,9 @@ The "Models" field interprets the models as:
 | Model | Interpreted Abbreviation | Model Settings |
 |--|--|--|
 | Decision Tree | dt | A simple decision tree. The settings are always default |
-| Neural Network | nn | The network always has 3 Hidden Layers of size **(n_attributes/2)+1**
-| Random Forest | rf | The Forest is generated with **(n_attributes/3)+2** trees
-| All Models | all | Generates code for all available Models
+| Neural Network | nn | The network always has 3 Hidden Layers of size **(n_attributes/2)+1** |
+| Random Forest | rf | The Forest is generated with **(n_attributes/3)+2** trees |
+| All Models | all | Generates code for all available Models |
 
 ## Special Settings Specification
 
