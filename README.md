@@ -7,7 +7,7 @@ Machine Learning algorithms are handy tools for Data Scientists. Creating a mode
 
 ## What is a Machine Learning Language?
 
-In general, a language is a grammar formatted structure capable of describing something. In this case, the 'something' is a Machine Learning routine. That being said, an entire routine can be described with a "words" of this language.
+In general, a language is a grammar formatted structure capable of describing something. In this case, the 'something' is a Machine Learning routine. That being said, an entire routine can be described with "words" of this language.
 
 ## What is this Compiler?
 
